@@ -39,8 +39,6 @@ class UserLoginSystem:
                 break
             if command == 'annual report':
                 print("your savings are one lakh rupees")
-            # if command == 'exit':
-            #     break
             else:
                 print(f'Executing command: {command}')
 
